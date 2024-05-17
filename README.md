@@ -14,5 +14,6 @@
 
  
 Часть тестового задания, требующего написания скриптов на Pyhton, была написана здесь:
-https://colab.research.google.com/drive/1LZJB5HJeGNhC0eAI1HgON5kr2sspKQKv?usp=sharing
+https://colab.research.google.com/drive/1LZJB5HJeGNhC0eAI1HgON5kr2sspKQKv?usp=sharing.
+Так же там лежат диаграммы из пункта 4.
 (По ссылке так же сохранены черновики разрабатываемых скриптов, которые по той или иной причине не работали. Сохранены для наглядности)
